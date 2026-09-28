@@ -1,5 +1,5 @@
 # 💫 About Me:
-Entry-Level Full Stack .NET Developer with hands-on experience building RESTful Web APIs using ASP.NET Core, C#, Entity Framework Core, SQL Server, ASP.NET Core Identity, and JWT. <br>Experienced in Manual Testing, <br>API Testing, and Testing DataBase, <br>with practical exposure to requirements analysis, <br>UI validation, <br>debugging, <br>and team-based development.
+I'm Amr Ahmed Hamam ,I'm an Entry-Level Full Stack .NET Developer with hands-on experience building RESTful Web APIs using ASP.NET Core, C#, Entity Framework Core, SQL Server, ASP.NET Core Identity, and JWT. <br>Experienced in Manual Testing, <br>API Testing, and Testing DataBase, <br>with practical exposure to requirements analysis, <br>UI validation, <br>debugging, <br>and team-based development.
 
 
 ## 🌐 Socials:
